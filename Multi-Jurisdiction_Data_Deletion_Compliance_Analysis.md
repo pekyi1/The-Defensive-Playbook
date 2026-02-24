@@ -1,6 +1,6 @@
 # Multi-Jurisdiction Compliance Challenge
-## Author Fred
-## Overview
+* **Prepared By:** Fred Pekyi
+* ## Overview
 
 This document provides a detailed legal and compliance analysis for ShopGhana, a Ghanaian e-commerce platform operating internationally. The analysis addresses three simultaneous data deletion requests submitted by customers located in Ghana, Germany, and the United States (California). Each request is evaluated under the applicable data protection framework, with clear obligations, timelines, exemptions, and drafted responses. The goal is to demonstrate correct interpretation of multi-jurisdictional privacy laws and practical compliance implementation.
 
